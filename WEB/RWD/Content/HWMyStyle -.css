@@ -1,0 +1,135 @@
+﻿body {
+}
+
+.btn-custom {
+    color: antiquewhite;
+    background-color: brown;
+}
+
+    .btn-custom:hover {
+        color: antiquewhite;
+        background-color: sandybrown;
+    }
+
+.btn-check {
+    color: antiquewhite;
+    background-color: saddlebrown;
+}
+
+    .btn-check:hover {
+        color: antiquewhite;
+        background-color: rgb(114, 53, 10);
+    }
+.img-thumbnail {
+    padding: 0.25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    
+    width: auto;
+    height: auto;
+}
+.navbar-custom {
+    background-color: saddlebrown;
+}
+
+    .navbar-custom .navbar-brand,
+    .navbar-custom .navbar-text {
+        color: antiquewhite;
+    }
+
+.custom-toggler .navbar-toggler {
+    border-color: antiquewhite;
+}
+
+.custom-toggler .navbar-toggler-icon {
+    background-image: url( "data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(250,235,215,1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.jumbotron {
+    background-image: url('../HW_Image/bg02.jpg');
+    background-repeat: round;
+    border-bottom: 5px solid;
+    border-bottom-color: saddlebrown;
+}
+
+.carousel .carousel-item img {
+    height: 390px;
+    width: 350px;
+    object-fit: inherit;
+}
+
+
+
+
+#carouselOne {
+    height: 400px;
+    width: 450px;
+    margin: 0 auto;
+    margin-right: 0;
+}
+
+#carouselTwo{
+   max-width: 450px;
+   object-fit:fill;
+}
+
+
+.Mycustom {
+    height: 400px;
+    width: inherit;
+    border: 5px solid;
+    border-color: saddlebrown;
+    background-color: sienna;
+    text-align: center;
+    margin: auto;
+}
+
+
+
+
+.MyFontForBtn {
+    font-family: 微軟正黑體;
+    color: white;
+    font-weight: 900;
+}
+
+.MyFont {
+    font-family: 微軟正黑體;
+}
+
+.MyFontStyle1 {
+    font-family: 微軟正黑體;
+    color: white;
+    background-color: rosybrown;
+    font-weight: 700;
+}
+
+.MyFontStyle2 {
+    font-family: 微軟正黑體;
+    color: rgb(253, 205, 3);
+    text-shadow: 3px 3px 3px black;
+    font-weight: 900;
+    font-size: 32pt;
+}
+
+
+.MyFontStyle3 {
+    color: sandybrown;
+    opacity: 0.5;
+}
+
+.MyFontStyle4 {
+    color: saddlebrown;
+    font-size: 24px;
+}
+
+
+.modal-custom {
+    color: white;
+    background-color: saddlebrown;
+}
+
+.bg-theme {
+    background-color: saddlebrown;
+}
